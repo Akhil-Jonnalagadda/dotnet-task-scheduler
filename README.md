@@ -65,5 +65,3 @@ smtp.Credentials = new NetworkCredential("youremail@gmail.com", "yourapppassword
 - Google Calendar API integration
 - GUI version with WinForms/WPF
 - Auth system with user accounts
-
----
