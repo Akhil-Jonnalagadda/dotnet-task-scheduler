@@ -1,0 +1,14 @@
+C:\Users\akhil\OneDrive\Desktop\TASK SCHEDULER\bin\Debug\net8.0\TASK SCHEDULER.exe
+C:\Users\akhil\OneDrive\Desktop\TASK SCHEDULER\bin\Debug\net8.0\TASK SCHEDULER.deps.json
+C:\Users\akhil\OneDrive\Desktop\TASK SCHEDULER\bin\Debug\net8.0\TASK SCHEDULER.runtimeconfig.json
+C:\Users\akhil\OneDrive\Desktop\TASK SCHEDULER\bin\Debug\net8.0\TASK SCHEDULER.dll
+C:\Users\akhil\OneDrive\Desktop\TASK SCHEDULER\bin\Debug\net8.0\TASK SCHEDULER.pdb
+C:\Users\akhil\OneDrive\Desktop\TASK SCHEDULER\obj\Debug\net8.0\TASK SCHEDULER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhil\OneDrive\Desktop\TASK SCHEDULER\obj\Debug\net8.0\TASK SCHEDULER.AssemblyInfoInputs.cache
+C:\Users\akhil\OneDrive\Desktop\TASK SCHEDULER\obj\Debug\net8.0\TASK SCHEDULER.AssemblyInfo.cs
+C:\Users\akhil\OneDrive\Desktop\TASK SCHEDULER\obj\Debug\net8.0\TASK SCHEDULER.csproj.CoreCompileInputs.cache
+C:\Users\akhil\OneDrive\Desktop\TASK SCHEDULER\obj\Debug\net8.0\TASK SCHEDULER.dll
+C:\Users\akhil\OneDrive\Desktop\TASK SCHEDULER\obj\Debug\net8.0\refint\TASK SCHEDULER.dll
+C:\Users\akhil\OneDrive\Desktop\TASK SCHEDULER\obj\Debug\net8.0\TASK SCHEDULER.pdb
+C:\Users\akhil\OneDrive\Desktop\TASK SCHEDULER\obj\Debug\net8.0\TASK SCHEDULER.genruntimeconfig.cache
+C:\Users\akhil\OneDrive\Desktop\TASK SCHEDULER\obj\Debug\net8.0\ref\TASK SCHEDULER.dll
