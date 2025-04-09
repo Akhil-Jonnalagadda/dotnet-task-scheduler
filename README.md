@@ -25,3 +25,51 @@ This is a simple yet powerful Task Scheduler Console App built in **C# and .NET 
    ```bash
    https://github.com/Akhil-Jonnalagadda/dotnet-task-scheduler.git
    cd dotnet-task-scheduler
+   
+
+2. Run the app:
+   ```bash
+   dotnet run
+   ```
+
+---
+
+## 🛠️ Configuration
+
+### ✉️ Email Reminder (Gmail SMTP)
+
+Edit this in `Helpers/ReminderChecker.cs`:
+
+```csharp
+mail.From = new MailAddress("youremail@gmail.com");
+smtp.Credentials = new NetworkCredential("youremail@gmail.com", "yourapppassword");
+```
+
+> ⚠️ Use [App Passwords](https://support.google.com/accounts/answer/185833?hl=en) instead of your real password.
+
+---
+
+## 🛠️ Built With
+
+- [.NET 8](https://dotnet.microsoft.com/en-us/download)
+- C#
+- Console UI
+- JSON File Handling
+- SMTP (System.Net.Mail)
+
+---
+
+## ✨ Future Improvements
+
+- Desktop Toast Notifications (Windows)
+- Google Calendar API integration
+- GUI version with WinForms/WPF
+- Auth system with user accounts
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+```
+Thank you !
