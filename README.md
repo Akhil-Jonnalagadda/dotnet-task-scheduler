@@ -72,6 +72,3 @@ smtp.Credentials = new NetworkCredential("youremail@gmail.com", "yourapppassword
 
 This project is licensed under the MIT License.
 ```
-
-
-#Thank you !
